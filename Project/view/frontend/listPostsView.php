@@ -1,7 +1,7 @@
-<?php $title = 'Mon Blog 12'; ?>
+<?php $title = 'Mon Blog'; ?>
 <?php ob_start(); ?>
 
-<h1>Mon petit Blog 12 !!!</h1>
+<h1>Mon super blog !!!</h1>
 <p>Liste des derniers billets :</p>
 <?php 
 while ($data = $posts->fetch()) 
